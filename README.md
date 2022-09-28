@@ -6,6 +6,7 @@
 ### 
 ### Authors: Gal Pinto, Ben Kalamaro
 ### Date: 13.08.2022
+### Project Grade: 96/100
 
 ###
 
